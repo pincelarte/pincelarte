@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola, soy Juan Cruz 👋
 ![banner](https://github.com/pincelarte/pincelarte/blob/main/logoPincelarteListo.png)
 <!--
 **pincelarte/pincelarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
