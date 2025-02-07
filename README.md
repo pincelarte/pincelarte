@@ -1,4 +1,4 @@
-## Hi, 👋 I´m Juan Cruz. A passionate full stack from Argentine
+## Hi, 👋 I´m Juan Cruz. A full stack from Argentine-
 ![banner](https://github.com/pincelarte/pincelarte/blob/main/logoPincelarteListo.png)
 <!--
 **pincelarte/pincelarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
